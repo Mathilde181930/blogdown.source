@@ -25,9 +25,9 @@ weight = 3
 
 +++
 
-FIRSTNAME FAMILYNAME
+Mathilde Isorez
 <br>
-<small>A short description of myself here</small>
+<small> I'm a 19 year old student in Biology at the University of Mons</small>
 <br><br>
 
 <script type="text/javascript">
