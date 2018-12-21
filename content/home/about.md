@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "..."
+    "Zoology"
+    "Ethology"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -26,12 +27,12 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
-  year = 2018
+  course = "Scientific option"
+  institution = "Athénée Royal Robert Campin"
+  year = 2017
 
 +++
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I am student at the University of Mons, Belgium. I hope to study in master the ethology because I love animals and would like to learn more about their behaviours.
